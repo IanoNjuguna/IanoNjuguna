@@ -1,4 +1,4 @@
-# Hi there
+# Hi there 👋
 
 ![Cool-Face-With-Sunglasses]{img/smiling-face-with-sunglasses.png}
 
