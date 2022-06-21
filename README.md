@@ -1,14 +1,20 @@
 # Hi there 👋
 
-:rocket: I’m looking to collaborate on open-source software projects
+![Cool-Face-With-Sunglasses](img/smiling-face-with-sunglasses.png)
+
+🔭 I’m currently working on being a great software engineer.
+
+:book: I’m currently learning the C & Python programming languages
+
+:rocket: I’m looking to collaborate on open-source software projects.
 <!--
 **IanoNjuguna/IanoNjuguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on open-source software projects
+- 🔭 I’m currently working on being a great software engineer
+- :book: I’m currently learning the C & Python programming languages
+- :rocket: I’m looking to collaborate on open-source software projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
