@@ -2,7 +2,7 @@
 
 ## My name is Iano, welcome to my GitHub
 
-<a href="https://app.daily.dev/IanoNjuguna"><img src="https://github.com/IanoNjuguna/IanoNjuguna/blob/main/devcard.svg" width="100" length="100" alt="Iano's Dev Card"/></a>
+<a href="https://app.daily.dev/IanoNjuguna"><img src="https://github.com/IanoNjuguna/IanoNjuguna/blob/main/devcard.svg" width="350" length="200" alt="Iano's Dev Card"/></a>
 
 🔭 I’m currently working on being a great software engineer.
 
