@@ -10,7 +10,7 @@
 
 :rocket: I’m looking to collaborate on open-source software projects.
 
-![Cool-Face-With-Sunglasses](img/smiling-face-with-sunglasses.png)
+
 <!--
 **IanoNjuguna/IanoNjuguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Cool-Face-With-Sunglasses](img/smiling-face-with-sunglasses.png)
 -->
