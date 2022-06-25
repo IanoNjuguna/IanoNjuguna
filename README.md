@@ -2,14 +2,13 @@
 
 ## My name is Iano, welcome to my GitHub
 
-<a href="https://app.daily.dev/IanoNjuguna"><img src="https://github.com/IanoNjuguna/IanoNjuguna/blob/main/devcard.svg" width="250" length="50" alt="Iano's Dev Card"/></a>
-
-🔭 I’m currently working on being a great software engineer.
+🔭 I’m currently working to become a great software engineer.
 
 :book: I’m currently learning the C & Python programming languages
 
 :rocket: I’m looking to collaborate on open-source software projects.
 
+<a href="https://app.daily.dev/IanoNjuguna"><img src="https://github.com/IanoNjuguna/IanoNjuguna/blob/main/devcard.svg" width="250" length="50" alt="Iano's Dev Card"/></a>
 
 <!--
 **IanoNjuguna/IanoNjuguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
