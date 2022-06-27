@@ -8,7 +8,7 @@
 
 :rocket: I’m looking to collaborate on open-source software projects.
 
-<a href="https://app.daily.dev/IanoNjuguna"><img src="https://github.com/IanoNjuguna/IanoNjuguna/blob/main/devcard.svg" width="250" length="50" alt="Iano's Dev Card"/></a>
+![Cool-Face-With-Sunglasses](img/smiling-face-with-sunglasses.png)
 
 <!--
 **IanoNjuguna/IanoNjuguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Cool-Face-With-Sunglasses](img/smiling-face-with-sunglasses.png)
+
 -->
