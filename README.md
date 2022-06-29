@@ -3,6 +3,7 @@
 ## My name is Iano, welcome to my GitHub
 
 :rocket: I’m working to become a great software engineer.
+:rocket: Backend development & Embedded systems
 
 ![Cool-Face-With-Sunglasses](img/smiling-face-with-sunglasses.png)
 
