@@ -2,11 +2,7 @@
 
 ## My name is Iano, welcome to my GitHub
 
-🔭 I’m currently working to become a great software engineer.
-
-:book: I’m currently learning the C & Python programming languages
-
-:rocket: I’m looking to collaborate on open-source software projects.
+:rocket: I’m working to become a great software engineer.
 
 ![Cool-Face-With-Sunglasses](img/smiling-face-with-sunglasses.png)
 
