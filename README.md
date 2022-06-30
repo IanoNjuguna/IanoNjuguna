@@ -4,8 +4,6 @@
 
 :rocket: I’m working to become a great software engineer.
 
-:rocket: Exploring the world of Backend development & Embedded systems
-
 ![Cool-Face-With-Sunglasses](img/smiling-face-with-sunglasses.png)
 
 <!--
