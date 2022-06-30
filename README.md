@@ -2,7 +2,7 @@
 
 ## My name is Iano, welcome to my GitHub
 
-:rocket: I’m working to become a great software engineer.
+:rocket: My goal is to become a great software engineer.
 
 ![Cool-Face-With-Sunglasses](img/smiling-face-with-sunglasses.png)
 
