@@ -1,10 +1,11 @@
-# Hello
+# Hello :waving_hand:
 
-## My name is Iano, welcome to my GitHub
+## My name is Iano, welcome to my GitHub.
 
 :rocket: My goal is to become a great software engineer.
 
 ***
+Thought bite:
 > Our expectation of privacy is violated when the capabilies of government surveillance have become cheaper by an order of magnitude, and each time that occurs, we need to revisit and rebalance our privacy rights.
 > 
 > -- <cite>The Bankston-Soltani Principle</cite> --
