@@ -6,7 +6,8 @@
 
 ***
 > Our expectation of privacy is violated when the capabilies of government surveillance have become cheaper by an order of magnitude, and each time that occurs, we need to revisit and rebalance our privacy rights.
-- The Bankston-Soltani Principle
+> 
+> -- <cite>The Bankston-Soltani Principle</cite>
 
 <!--
 **IanoNjuguna/IanoNjuguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
