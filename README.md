@@ -3,7 +3,8 @@
 ## My name is Iano, welcome to my GitHub
 
 :rocket: My goal is to become a great software engineer.
-*hr>
+
+***
 
 
 <!--
