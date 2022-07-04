@@ -1,6 +1,6 @@
 # Hello :wave:
 
-## My name is Iano, welcome to my GitHub.
+## My name is Iano.
 
 :rocket: My goal is to become a great software engineer.
 
