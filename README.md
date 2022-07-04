@@ -6,7 +6,7 @@
 ***
 ## Wakatime Stats
 
-[![wakatime](https://wakatime.com/badge/user/04d9ef08-6345-44d6-88a5-c4b7c8b0384e.svg)](https://wakatime.com/@04d9ef08-6345-44d6-88a5-c4b7c8b0384e)
+![wakatime](https://wakatime.com/badge/user/04d9ef08-6345-44d6-88a5-c4b7c8b0384e.svg)](https://wakatime.com/@04d9ef08-6345-44d6-88a5-c4b7c8b0384e)
 ***
 #### 💭
 > Our expectation of privacy is violated when the capabilies of government surveillance have become cheaper by an order of magnitude, and each time that occurs, we need to revisit and rebalance our privacy rights.
