@@ -4,8 +4,6 @@
 
 :rocket: My goal is to become a great software engineer.
 ***
-#### 💭
-
 > Our expectation of privacy is violated when the capabilies of government surveillance have become cheaper by an order of magnitude, and each time that occurs, we need to revisit and rebalance our privacy rights.
 > 
 > <cite>The Bankston-Soltani Principle</cite>
