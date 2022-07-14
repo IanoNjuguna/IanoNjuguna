@@ -1,4 +1,4 @@
-# Hello :wave:, I'm Iano Njuguna
+# Hello, I'm Iano Njuguna
 
 ## Programming Languages and Tools that I use
 
