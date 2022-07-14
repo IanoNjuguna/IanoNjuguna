@@ -1,6 +1,6 @@
-# Hello :wave:
+# Hello
 
-![IanoNjuguna](img/IanoNjuguna.png)
+:wave: I'm Iano.
 
 :rocket: My goal is to become a great software engineer.
 
