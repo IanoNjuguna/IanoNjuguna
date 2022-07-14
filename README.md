@@ -29,7 +29,7 @@
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=IanoNjuguna)](https://github.com/IanoNjuguna)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/IanoNjuguna)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanoNjuguna&layout=compact)](https://github.com/IanoNjuguna)
 
 <!--
 **IanoNjuguna/IanoNjuguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
