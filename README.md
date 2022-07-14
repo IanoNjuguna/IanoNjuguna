@@ -21,12 +21,6 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-***
-> Our expectation of privacy is violated when the capabilies of government surveillance have become cheaper by an order of magnitude, and each time that occurs, we need to revisit and rebalance our privacy rights.
->
-> The Bankston-Soltani Principle
-***
-
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=IanoNjuguna)](https://github.com/IanoNjuguna)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanoNjuguna&layout=compact)](https://github.com/IanoNjuguna)
@@ -45,5 +39,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+***
+> Our expectation of privacy is violated when the capabilies of government surveillance have become cheaper by an order of magnitude, and each time that occurs, we need to revisit and rebalance our privacy rights.
+>
+> The Bankston-Soltani Principle
+***
+
 ![Cool-Face-With-Sunglasses](img/smiling-face-with-sunglasses.png)
 -->
