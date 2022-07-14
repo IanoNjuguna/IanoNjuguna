@@ -22,9 +22,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=IanoNjuguna)](https://github.com/IanoNjuguna)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanoNjuguna&layout=compact)](https://github.com/IanoNjuguna)
-
 [![iano's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IanoNjuguna)](https://github.com/IanoNjuguna/github-readme-stats)
 <!--
 **IanoNjuguna/IanoNjuguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
