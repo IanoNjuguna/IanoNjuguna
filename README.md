@@ -1,6 +1,6 @@
 # About Me
 
-:wave: Hello, I'm Iano Njuguna & my goal is to become a great software engineer.
+:wave: Hello, I'm Iano Njuguna and my goal is to become a great software engineer.
 
 ## Programming Languages and Tools that I have experience with
 
