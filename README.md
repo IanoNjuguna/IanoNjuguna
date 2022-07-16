@@ -28,7 +28,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## Social Media & Developer Fora
+## Let's connect on Social Media & Developer Fora
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MsanidiProgramu)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ianonjuguna/)
@@ -38,7 +38,6 @@
 [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/IanoChege)
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ianonjuguna)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCm0F9CXBjKNc3aG0NdbqbA)
-[![Odysee](https://img.shields.io/badge/odysee-EF1970?style=for-the-badge&logo=Odysee&logoColor=white)]()
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/IanoNjuguna/)
 
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Iano-Nj%C5%A9g%C5%A9na)
@@ -58,25 +57,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanoNjuguna&layout=compact)](https://github.com/IanoNjuguna)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=IanoNjuguna.IanoNjuguna)
+
 <!--
-**IanoNjuguna/IanoNjuguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on being a great software engineer
-- :book: I’m currently learning the C & Python programming languages
-- :rocket: I’m looking to collaborate on open-source software projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 ***
+
 > Our expectation of privacy is violated when the capabilies of government surveillance have become cheaper by an order of magnitude, and each time that occurs, we need to revisit and rebalance our privacy rights.
 >
 > The Bankston-Soltani Principle
 ***
 
-![Cool-Face-With-Sunglasses](img/smiling-face-with-sunglasses.png)
 -->
