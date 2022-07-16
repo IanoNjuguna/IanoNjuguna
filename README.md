@@ -53,14 +53,16 @@
 
 ## My GitHub Stats
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=IanoNjuguna)](https://github.com/IanoNjuguna)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanoNjuguna&layout=compact)](https://github.com/IanoNjuguna)
+<div>
+  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=IanoNjuguna&theme=nord&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
+  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanoNjuguna&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
+</div>
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=IanoNjuguna.IanoNjuguna)
 
 <!--
-***
 
+***
 > Our expectation of privacy is violated when the capabilies of government surveillance have become cheaper by an order of magnitude, and each time that occurs, we need to revisit and rebalance our privacy rights.
 >
 > The Bankston-Soltani Principle
