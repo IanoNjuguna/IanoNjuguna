@@ -61,7 +61,7 @@
   <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanoNjuguna&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
 </div>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=IanoNjuguna.IanoNjuguna)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=IanoNjuguna.IanoNjuguna)](https://github.com/IanoNjuguna)
 
 <!--
 
