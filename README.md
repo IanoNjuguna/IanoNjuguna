@@ -1,6 +1,8 @@
-# Hello, I'm Iano Njuguna
+# About Me
 
-## Programming Languages and Tools that I use
+:wave: Hello, I'm Iano Njuguna & my goal is to become a great software engineer.
+
+## Programming Languages and Tools that I have experience with
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
