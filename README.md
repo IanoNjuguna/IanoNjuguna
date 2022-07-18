@@ -61,6 +61,7 @@
   <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanoNjuguna&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
 </div>
 
+[![wakatime](https://wakatime.com/badge/user/04d9ef08-6345-44d6-88a5-c4b7c8b0384e.svg)](https://wakatime.com/@04d9ef08-6345-44d6-88a5-c4b7c8b0384e)
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=IanoNjuguna.IanoNjuguna)](https://github.com/IanoNjuguna)
 
 <!--
