@@ -1,6 +1,8 @@
 # About Me
 
-:wave: Hello, I'm Iano Njuguna and my goal is to become a great software engineer.
+### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px"> Hello 
+
+I'm Iano Njuguna and my goal is to become a great software engineer.
 
 ## Programming Languages and Technologies that I have experience with
 
