@@ -2,7 +2,7 @@
 
 I'm Iano Njuguna and my goal is to become a great software engineer.
 
-## Let's connect on Social Media & Developer Fora
+## Social Media
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ianonjuguna_/)
 [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/IanoChege)
