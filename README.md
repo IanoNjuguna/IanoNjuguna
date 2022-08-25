@@ -9,7 +9,7 @@ I'm Iano Njuguna and my goal is to become a great software engineer.
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCm0F9CXBjKNc3aG0NdbqbA?sub_confirmation=1)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@IanoNjuguna)
 
-## My GitHub Stats
+## Stats
 
 <div>
   <img height="135px" src="https://github-readme-stats.vercel.app/api?username=IanoNjuguna&theme=nord&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
@@ -21,10 +21,10 @@ I'm Iano Njuguna and my goal is to become a great software engineer.
 [![wakatime](https://wakatime.com/badge/user/04d9ef08-6345-44d6-88a5-c4b7c8b0384e.svg)](https://wakatime.com/@04d9ef08-6345-44d6-88a5-c4b7c8b0384e)
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=IanoNjuguna.IanoNjuguna)](https://github.com/IanoNjuguna)
 
-***
+## The Bankston-Soltani Principle
+
 > Our expectation of privacy is violated when the capabilies of government surveillance have become cheaper by an order of magnitude, and each time that occurs, we need to revisit and rebalance our privacy rights.
->
-> The Bankston-Soltani Principle
+
 ***
 
 <!--
