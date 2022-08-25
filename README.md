@@ -18,7 +18,6 @@ I'm Iano Njuguna and my goal is to become a great software engineer.
   
   <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanoNjuguna&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=10">
 
-  <img height="135px" src="https://github-readme-streak-stats.herokuapp.com?user=IanoNjuguna&theme=nord" />
 </div>
 
 [![wakatime](https://wakatime.com/badge/user/04d9ef08-6345-44d6-88a5-c4b7c8b0384e.svg)](https://wakatime.com/@04d9ef08-6345-44d6-88a5-c4b7c8b0384e)
