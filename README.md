@@ -8,8 +8,6 @@ I'm Iano Njuguna and my goal is to become a great software engineer.
 >
 > Our expectation of privacy is violated when the capabilies of government surveillance have become cheaper by an order of magnitude, and each time that occurs, we need to revisit and rebalance our privacy rights.
 
-## Social Media
-
 [![Instagram Badge](https://img.shields.io/badge/Social%20Media-Instagram-white)](https://www.instagram.com/ianonjuguna_/)
 [![Reddit Badge](https://img.shields.io/badge/Social%20Media-reddit-orange)](https://www.reddit.com/user/IanoChege)
 [![YouTube Badge](https://img.shields.io/badge/Social%20Media-YouTube-red)](https://www.youtube.com/channel/UCCm0F9CXBjKNc3aG0NdbqbA?sub_confirmation=1)
