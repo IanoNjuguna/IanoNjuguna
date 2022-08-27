@@ -1,6 +1,7 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">Hello
 
 I'm Iano Njuguna and my goal is to become a great software engineer.
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=IanoNjuguna.IanoNjuguna)](https://github.com/IanoNjuguna)
 
 > Our expectation of privacy is violated when the capabilies of government surveillance have become cheaper by an order of magnitude, and each time that occurs, we need to revisit and rebalance our privacy rights.
 >
@@ -12,18 +13,6 @@ I'm Iano Njuguna and my goal is to become a great software engineer.
 [![Reddit Badge](https://img.shields.io/badge/Social%20Media-reddit-orange)](https://www.reddit.com/user/IanoChege)
 [![YouTube Badge](https://img.shields.io/badge/Social%20Media-YouTube-red)](https://www.youtube.com/channel/UCCm0F9CXBjKNc3aG0NdbqbA?sub_confirmation=1)
 [![Medium](https://img.shields.io/badge/Social%20Media-Medium-black)](https://medium.com/@IanoNjuguna)
-
-## Stats
-
-<div>
-  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=IanoNjuguna&theme=nord&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
-  
-  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanoNjuguna&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=3">
-
-</div>
-
-[![wakatime](https://wakatime.com/badge/user/04d9ef08-6345-44d6-88a5-c4b7c8b0384e.svg)](https://wakatime.com/@04d9ef08-6345-44d6-88a5-c4b7c8b0384e)
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=IanoNjuguna.IanoNjuguna)](https://github.com/IanoNjuguna)
 
 <!--
 
