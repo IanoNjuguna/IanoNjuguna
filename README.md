@@ -4,9 +4,8 @@
 
 I'm Iano Njuguna and my goal is to become a great software engineer.
 
+> The Bankston-Soltani Principle:
 > Our expectation of privacy is violated when the capabilies of government surveillance have become cheaper by an order of magnitude, and each time that occurs, we need to revisit and rebalance our privacy rights.
->
-> The Bankston-Soltani Principle
 
 ## Social Media
 
