@@ -11,7 +11,7 @@ I'm Iano Njuguna and my goal is to become a great software engineer.
 [![Instagram Badge](https://img.shields.io/badge/Social%20-Instagram-white)](https://www.instagram.com/ianonjuguna_/)
 [![Reddit Badge](https://img.shields.io/badge/Social%20-reddit-orange)](https://www.reddit.com/user/IanoChege)
 [![YouTube Badge](https://img.shields.io/badge/Media%20-YouTube-red)](https://www.youtube.com/channel/UCCm0F9CXBjKNc3aG0NdbqbA?sub_confirmation=1)
-[![Medium](https://img.shields.io/badge/Blog%20-Medium-black)](https://medium.com/@IanoNjuguna)
+[![Medium](https://img.shields.io/badge/Non%20Tech-Medium-black)](https://medium.com/@IanoNjuguna)
 
 <!--
 
