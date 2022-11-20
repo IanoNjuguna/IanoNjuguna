@@ -1,6 +1,7 @@
 # Hello, world
 
-#### :books: Recent Blog Posts
+## :books: Recent Blog Posts
+
 <!-- BLOGPOSTS:START -->
  - 🔥 [Input &amp;&amp; Output, Part2.](https://ianonjuguna.hashnode.dev/input-output-part2)
  - 🔥 [Input &amp;&amp; Output, Part 1.](https://ianonjuguna.hashnode.dev/input-output-part-1)
