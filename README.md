@@ -1,5 +1,7 @@
 # Hello, world
 
+<img src="https://www.codewars.com/users/IanoNjuguna/badges/small" alt="CodeWars">
+
 ## :books: Recent Blog Posts
 
 <!-- BLOGPOSTS:START -->
