@@ -1,6 +1,8 @@
 # Hello, world
 
-<img src="https://www.codewars.com/users/IanoNjuguna/badges/small" alt="CodeWars">
+<a href=https://www.codewars.com/users/IanoNjuguna>
+ <img src="https://www.codewars.com/users/IanoNjuguna/badges/small" alt="CodeWars">
+</a>
 
 ## :books: Recent Blog Posts
 
