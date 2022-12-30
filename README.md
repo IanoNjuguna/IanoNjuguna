@@ -1,6 +1,6 @@
 # Hello, world
 
-<a href=codewars.com/r/jEgZLA>
+<a href="https://www.codewars.com/users/IanoNjuguna">
  <img src="https://www.codewars.com/users/IanoNjuguna/badges/small" alt="CodeWars">
 </a>
 
