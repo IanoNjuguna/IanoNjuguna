@@ -12,6 +12,6 @@
  - 🔥 [While Loops Part 1.](https://ianonjuguna.hashnode.dev/while-loops-part-1)
  - 💫 [Two things I&#39;d recommend for code newbies.](https://ianonjuguna.hashnode.dev/two-things-id-recommend-for-code-newbies)<!-- BLOGPOSTS:END -->
 
-## :notes: My Musical Activity on Spotify
+## :notes: Iano's Bilboard Hot 5
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vl47aryatvfowc5ivu7sn7rkfa&width=300)
