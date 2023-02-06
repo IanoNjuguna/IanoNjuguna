@@ -1,6 +1,4 @@
-# Hello, world
-
-## :books: Recent Blog Posts
+# :books: Recent Blog Posts
 
 <!-- BLOGPOSTS:START -->
  - 🔥 [BrokenImport: could not import rsc.io/quote error in GoLang](https://ianonjuguna.hashnode.dev/could-not-import-rscioquote)
