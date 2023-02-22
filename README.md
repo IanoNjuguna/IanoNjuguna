@@ -1,8 +1,8 @@
 # :books: Recent Blog Posts
 
 <!-- BLOGPOSTS:START -->
+ - 🔥 [Set Up your GitHub Commit Signature](https://ianonjuguna.hashnode.dev/set-up-your-github-commit-signature)
  - 🔥 [How to Set up Git in 3 Steps](https://ianonjuguna.hashnode.dev/how-to-set-up-git-in-3-steps)
  - 🔥 [How to Install Google Chrome using the Linux Terminal](https://ianonjuguna.hashnode.dev/how-to-install-google-chrome-using-the-linux-terminal)
- - 🔥 [BrokenImport: could not import rsc.io/quote error in GoLang](https://ianonjuguna.hashnode.dev/could-not-import-rscioquote)
- - 💫 [Learn to Learn](https://ianonjuguna.hashnode.dev/learn-to-learn)
- - 🌮 [Input &amp;&amp; Output, Part2.](https://ianonjuguna.hashnode.dev/input-output-part2)<!-- BLOGPOSTS:END -->
+ - 💫 [BrokenImport: could not import rsc.io/quote error in GoLang](https://ianonjuguna.hashnode.dev/could-not-import-rscioquote)
+ - 🌮 [Learn to Learn](https://ianonjuguna.hashnode.dev/learn-to-learn)<!-- BLOGPOSTS:END -->
