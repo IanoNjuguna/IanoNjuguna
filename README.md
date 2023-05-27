@@ -6,18 +6,17 @@ Hello, world. My name is Iano Njuguna
 
 <div style="display: inline-flex;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ianonjuguna&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="350px">
+ <img src="https://github-readme-stats.vercel.app/api?username=ianonjuguna&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="350px">
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianonjuguna&theme=github_dark&hide_border=true" width="350px">
 
 </div>
 
-[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ianonjuguna&bg_color=000000&color=999900&line=969900&point=none&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <div style="display: inline-flex;">
-<img src="https://raw.githubusercontent.com/ianonjuguna/github-stats/master/generated/overview.svg#gh-dark-mode-only" width="350px">
-<img src="https://raw.githubusercontent.com/ianonjuguna/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="350px">
+  
+ <img src="https://raw.githubusercontent.com/ianonjuguna/github-stats/master/generated/overview.svg#gh-dark-mode-only" width="350px">
+  
+ <img src="https://raw.githubusercontent.com/ianonjuguna/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="350px">
 </div>
 
 # :books: Recent Blog Posts
