@@ -1,6 +1,9 @@
 ``` bash
 Hello, world. My name is Iano Njuguna
 ```
+# GitHub Statistics
+
+![Iano's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanoNjuguna&show_icons=true&count_private=true)
 
 # :books: Recent Blog Posts
 
