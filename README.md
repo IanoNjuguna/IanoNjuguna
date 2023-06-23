@@ -1,9 +1,11 @@
 ``` Python
-def IanoGitHub:
-    print("[Recursion](https://www.github.com/IanoNjuguna)")
+def greet:
+    print("Howdy")
 
-IanoGitHub()
+greet()
 ```
+
+[Recursion](www.github.com/IanoNjuguna)
 
 [![twitter](https://img.shields.io/twitter/follow/ianonjuguna?logo=twitter&style=social)](https://twitter.com/ianonjuguna)
 
