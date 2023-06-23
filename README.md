@@ -5,7 +5,7 @@ def greet:
 greet()
 ```
 
-[Recursion](www.github.com/IanoNjuguna)
+[Recursion](https://github.com/IanoNjuguna)
 
 [![twitter](https://img.shields.io/twitter/follow/ianonjuguna?logo=twitter&style=social)](https://twitter.com/ianonjuguna)
 
