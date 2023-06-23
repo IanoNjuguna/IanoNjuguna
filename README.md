@@ -1,4 +1,9 @@
-[Recursion](https://www.github.com/IanoNjuguna)
+``` Python
+def IanoGitHub:
+    print("[Recursion](https://www.github.com/IanoNjuguna)")
+
+IanoGitHub()
+```
 
 [![twitter](https://img.shields.io/twitter/follow/ianonjuguna?logo=twitter&style=social)](https://twitter.com/ianonjuguna)
 
@@ -16,5 +21,4 @@
  - 🔥 [How to Set up Git in 3 Steps](https://ianonjuguna.hashnode.dev/how-to-set-up-git-in-3-steps)
  - 💫 [How to Install Google Chrome using the Linux Terminal](https://ianonjuguna.hashnode.dev/how-to-install-google-chrome-using-the-linux-terminal)
  - 🌮 [BrokenImport: could not import rsc.io/quote error in GoLang](https://ianonjuguna.hashnode.dev/could-not-import-rscioquote)
- - <!-- BLOGPOSTS:END -->
- 
+<!-- BLOGPOSTS:END -->
