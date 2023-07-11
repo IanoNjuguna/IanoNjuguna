@@ -9,11 +9,8 @@ greet()
 
 [![twitter](https://img.shields.io/twitter/follow/ianonjuguna?logo=twitter&style=social)](https://twitter.com/ianonjuguna)
 
-# GitHub Statistics
-
 [![wakatime](https://wakatime.com/badge/user/04d9ef08-6345-44d6-88a5-c4b7c8b0384e.svg)](https://wakatime.com/@04d9ef08-6345-44d6-88a5-c4b7c8b0384e?style=social)
 
-![Iano's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanoNjuguna&show_icons=true&count_private=true&theme=github_dark)
 
 # :books: Recent Blog Posts
 
