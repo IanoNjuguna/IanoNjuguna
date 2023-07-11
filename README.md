@@ -20,3 +20,10 @@ greet()
  - 🔥 [How to Set up Git in 3 Steps](https://ianonjuguna.hashnode.dev/how-to-set-up-git-in-3-steps)
  - 💫 [How to Install Google Chrome using the Linux Terminal](https://ianonjuguna.hashnode.dev/how-to-install-google-chrome-using-the-linux-terminal)
  - 🌮 [BrokenImport: could not import rsc.io/quote error in GoLang](https://ianonjuguna.hashnode.dev/could-not-import-rscioquote)<!-- BLOGPOSTS:END -->
+
+### Now Playing on Spotify 🎧
+<p>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=31vl47aryatvfowc5ivu7sn7rkfa&redirect=true">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31vl47aryatvfowc5ivu7sn7rkfa&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false"/>
+</a>
+</p>
