@@ -1,10 +1,3 @@
-``` Python
-def greet:
-    print("Howdy")
-
-greet()
-```
-
 ![](https://komarev.com/ghpvc/?username=IanoNjuguna&style=plastic&color=green)
 [![Recursion](https://badgen.net/badge/curious/recursion/red?icon=bitcoin-lightning&style=plastic)](https://github.com/IanoNjuguna)
 [![twitter](https://img.shields.io/twitter/follow/ianonjuguna?logo=twitter&style=plastic&color=grey)](https://twitter.com/ianonjuguna)
