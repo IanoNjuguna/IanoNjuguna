@@ -10,5 +10,5 @@
  - 🔥 [System-Wide Settings in Linux](https://ianonjuguna.hashnode.dev/system-wide-settings-in-linux)
  - 🔥 [How I Set Up My Neovim Config For Web Development](https://ianonjuguna.hashnode.dev/how-i-set-up-my-neovim-config-for-web-development)
  - 🔥 [How to Install the Latest Version of Ruby in Ubuntu 22.04](https://ianonjuguna.hashnode.dev/how-to-install-ruby-in-ubuntu)
- - 💫 [Set Up Kali Linux on any Android Device](https://ianonjuguna.hashnode.dev/set-up-kali-linux-on-any-android-device)
- - 🌮 [Set Up your GitHub Commit Signature](https://ianonjuguna.hashnode.dev/set-up-your-github-commit-signature)<!-- BLOGPOSTS:END -->
+ - 💫 [How to Set up Git in 3 Steps](https://ianonjuguna.hashnode.dev/how-to-set-up-git-in-3-steps)
+ - 🌮 [How to Install Google Chrome using the Linux Terminal](https://ianonjuguna.hashnode.dev/how-to-install-google-chrome-using-the-linux-terminal)<!-- BLOGPOSTS:END -->
