@@ -1,8 +1,8 @@
 # :books: Recent Blog Posts
 
 <!-- BLOGPOSTS:START -->
- - 🔥 [System-Wide Settings in Linux](https://ianonjuguna.hashnode.dev/system-wide-settings-in-linux)
- - 🔥 [How to Set up Git in 3 Steps](https://ianonjuguna.hashnode.dev/how-to-set-up-git-in-3-steps)
- - 🔥 [BrokenImport: could not import rsc.io/quote error in GoLang](https://ianonjuguna.hashnode.dev/could-not-import-rscioquote)
- - 💫 [Input &amp;&amp; Output, Part2.](https://ianonjuguna.hashnode.dev/input-output-part2)
- - 🌮 [Input &amp;&amp; Output, Part 1.](https://ianonjuguna.hashnode.dev/input-output-part-1)<!-- BLOGPOSTS:END -->
+ - 🔥 [Recursive Duplicates](https://iano10x.hashnode.dev/recursive-duplicates)
+ - 🔥 [The Confidential Mode on Gmail](https://iano10x.hashnode.dev/the-confidential-mode-on-gmail)
+ - 🔥 [System-Wide Settings in Linux](https://iano10x.hashnode.dev/system-wide-settings-in-linux)
+ - 💫 [How to Install the Latest Version of Ruby in Ubuntu 22.04](https://iano10x.hashnode.dev/how-to-install-ruby-in-ubuntu)
+ - 🌮 [How to Set up Git in 3 Steps](https://iano10x.hashnode.dev/how-to-set-up-git-in-3-steps)<!-- BLOGPOSTS:END -->
